@@ -22,7 +22,7 @@
 <body>
   <div class=header>
     <h1>公大高専１年実習I-1レポート</h1>
-    <div>〇組〇番 ニックネーム</div>
+    <div>３組１３番 久保田快</div>
   </div>
   <div class=1week>
     <h2>第1週目</h2>
@@ -31,9 +31,9 @@
       <img src="art.png" alt="アート" width="100%" height="100%">
       <div>
         1.内容<br>
-        ないようないよう<br>
+        スクラッチを使い線を書くプログラムを作った。<br>
         2.感想<br>
-        かんそうかんそう<br>
+        線の色や、太さを変えることで、色々な円を描くことができて面白かったです。<br>
       </div>
     </div>
 
@@ -42,8 +42,8 @@
       <img src="game.png" alt="ゲーム" width="100%" height="100%">
       <div>
         1.内容<br>
-        ないようないよう<br>
-        2.感想<br>
+        <br>
+        2.<br>
         かんそうかんそう<br>        
       </div>
     </div>
